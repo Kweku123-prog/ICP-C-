@@ -9,7 +9,7 @@ void LinearIndex(int i,int j){
      int A[i][j];
 // one diemntional array
      int B[j];
-     int u=0
+     int u=0;
 
 	
 	
